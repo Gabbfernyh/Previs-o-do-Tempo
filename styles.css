@@ -11,10 +11,10 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url(https://images.unsplash.com/photo-1495757450029-09dbedacbc36?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+    background-image: url(https://fastly.picsum.photos/id/153/1920/1089.jpg?hmac=ehYy99o6WAY9V-p9L4AWFSbEzLfexBDekDPJNyqs8kc);
 }
 
-.caixa-maior{
+.caixa-maior {
     background-color: #000000;
     opacity: 0.8;
     border-radius: 25px;
@@ -23,7 +23,7 @@ body {
     max-width: 450px;
 }
 
-.city{
+.city {
     outline: none;
     border: none;
     padding: 10px;
@@ -35,7 +35,7 @@ body {
     text-transform: capitalize;
 }
 
-.btn-buscar{
+.btn-buscar {
     background-color: #7c7c7c2b;
     border: none;
     outline: none;
@@ -45,16 +45,16 @@ body {
     float: right;
 }
 
-.search-icon{
+.search-icon {
     width: 30px;
     color: #fff;
 }
 
-.caixa-media{
+.caixa-media {
     margin-top: 30px;
 }
 
-.cidade{
+.cidade {
     color: #fff;
     font-size: 19px;
     font-weight: 600;
@@ -62,27 +62,27 @@ body {
     margin-top: 20px;
 }
 
-.temp{
+.temp {
     color: #fff;
     font-size: 7;
     font-weight: 300;
     margin-top: 10px;
 }
 
-.caixa-menor{
+.caixa-menor {
     display: flex;
     align-items: center;
     margin-top: 10px;
 }
 
-.condicao{
+.condicao {
     color: #fff;
     font-size: 20px;
     font-weight: 300;
     text-transform: capitalize;
 }
 
-.umidade{
+.umidade {
     color: #fff;
     font-size: 14px;
     font-weight: 300;
