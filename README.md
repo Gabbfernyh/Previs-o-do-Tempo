@@ -35,6 +35,5 @@ Este projeto foi realizado em meio à transmissão de aprendizagem, usando **HTM
 - CSS
 - JavaScript (puro)
 - [WeatherAPI](https://www.weatherapi.com/)
-- GitHub Copilot
 
 ---
